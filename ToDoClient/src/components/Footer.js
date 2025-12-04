@@ -25,11 +25,11 @@ const Footer = () => {
       <Typography sx={{mt:2}} variant="body2" color="text.secondary">
         &copy; {new Date().getFullYear()}{" "}
         <Link color="inherit" href="#">
-          Ayala Yagelnik
+          Tamar Yagelnik
         </Link>
       </Typography>
       <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
-        <Link href="https://github.com/Ayala-Yagelnik" color="inherit" sx={{ mx: 1 }}>
+        <Link href="https://github.com/Tamar401/" color="inherit" sx={{ mx: 1 }}>
           <GitHubIcon />
         </Link>
         <Link href="https://linkedin.com" color="inherit" sx={{ mx: 1 }}>
