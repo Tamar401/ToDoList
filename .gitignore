@@ -1,0 +1,30 @@
+# Backend (.NET)
+ToDoApi/bin/
+ToDoApi/obj/
+ToDoApi/.vs/
+ToDoApi/.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Frontend (Node.js)
+ToDoClient/node_modules/
+ToDoClient/build/
+ToDoClient/dist/
+ToDoClient/.env.local
+ToDoClient/.env.*.local
+ToDoClient/npm-debug.log*
+ToDoClient/yarn-debug.log*
+ToDoClient/yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment files
+.env
+!my.env.example
